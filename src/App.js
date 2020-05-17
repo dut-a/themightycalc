@@ -6,6 +6,9 @@ import RecallView from "./components/RecallView";
 import Equations from "./components/Equations";
 import Functions from "./components/Functions";
 
+// === CSS imports below here ===
+import "./css/calc.css";
+
 export default class App extends Component {  
   render() {  
     return (
