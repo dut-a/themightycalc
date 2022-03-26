@@ -9,7 +9,7 @@
     "EventEmitter": "^1.0.0",
     "acorn": "^7.1.1",
     "jscodeshift": "^0.9.0",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
